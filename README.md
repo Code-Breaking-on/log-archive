@@ -26,7 +26,7 @@ A simple command-line tool to archive logs by compressing them into `.tar.gz` fi
 Clone the repository or copy the script:
 
 ```bash
-git clone https://github.com/yourusername/log-archive-tool.git
+git clone https://github.com/Code-Breaking-on/log-archive-tool.git
 cd log-archive-tool
 ```
 
